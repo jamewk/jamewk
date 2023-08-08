@@ -25,9 +25,7 @@ I am a full-time Software Developer.
 
 ## 📈 Github Stat
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=jamewk&count_private=true&theme=onedark&show_icons=true)](https://github.com/jamewk)
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikkipastel&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/mikkipastel)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamewk&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/jamewk)
 
 ## 🧧 Donate me
 
