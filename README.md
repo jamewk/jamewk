@@ -4,7 +4,7 @@ I am a full-time Software Developer.
 
 ## 📫 Social
 
-[![Facebook Badge](https://img.shields.io/badge/-JamesSut21-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/JamesSut21/)](https://www.facebook.com/JamesSut21)
+[![Facebook Badge](https://img.shields.io/badge/-Anuwat.r-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/JamesSut21/)](https://www.facebook.com/JamesSut21)
 
 ## 💻 My Tech Stack
 
