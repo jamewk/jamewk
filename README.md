@@ -1,8 +1,6 @@
 # Hello World 🌏
 
-I am a full-time Android Developer and part-time Content Creator in MikkiPastel. I have started Android Development since the internship and develop some applications to join some contest to get more experience then my goals are made application to solve user problem, answer business and improve myself to share knowledge in my blog. 
-
-🌱 In addition to Android Development, I am interest in Programming, Design, Blockchain, Chatbot, Business & Innovation.
+I am a full-time Software Developer.
 
 ## 📫 Social
 [![Blog](https://img.shields.io/website?color=B71D25&style=flat-square&up_message=Blog&url=https%3A%2F%2Fmikkipastel.com)](https://mikkipastel.com)
