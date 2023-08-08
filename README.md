@@ -24,9 +24,6 @@ I am a full-time Software Developer.
 ![Digital_Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 
 ## 📈 Github Stat
+[![Github Status](https://github-readme-stats.vercel.app/api?username=jamewk&count_private=true&theme=onedark&show_icons=true)](https://github.com/jamewk)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamewk&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/jamewk)
-
-## 🧧 Donate me
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S31VK3J)
