@@ -19,12 +19,12 @@ I am a full-time Software Developer.
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Docker](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Docker-ffca28?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 #### Other
 ![Digital_Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-![Firebase](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Firebase-2CA5E0?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 📈 Github Stat
 [![Github Status](https://github-readme-stats.vercel.app/api?username=jamewk&count_private=true&theme=onedark&show_icons=true)](https://github.com/jamewk)
