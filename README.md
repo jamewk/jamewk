@@ -2,8 +2,6 @@
 
 I am a full-time Software Developer.
 
-🌱 In addition to Software Development, I am interest in Mobile Developer.
-
 ## 📫 Social
 
 [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/JamesSut21/)](https://www.facebook.com/JamesSut21)
