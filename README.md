@@ -26,6 +26,6 @@ I am a full-time Software Developer.
 ![Docker](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## 📈 Github Stats
-[![Github Status]](https://github.com/jamewk)
+![Github Status](https://github.com/jamewk)
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamewk&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/jamewk)
