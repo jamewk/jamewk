@@ -51,8 +51,7 @@ Full-time Software Developer who enjoys building web and mobile applications wit
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jamewk&show_icons=true&theme=tokyonight&hide_border=true" alt="James GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamewk&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamewk&theme=tokyonight" alt="GitHub profile summary" />
 </div>
 
 ---
